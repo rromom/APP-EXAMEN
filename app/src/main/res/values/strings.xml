@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">EXAMEN</string>
+    <string name="titlemain">MENU</string>
+    <string name="btnlogin">Iniciar Sesión</string>
+    <string name="btnmenu">Menu</string>
+    <string name="btnproductos">Productos</string>
+    <string name="btncotizador">Cotizador</string>
+    <!-- TODO: Login-->
+    <string name="logtitle">INCIAR SESION</string>
+    <string name="loglay1">Ingrese Correo </string>
+    <string name="loginp1">Correo electronico</string>
+    <string name="loglay2">Ingrese Contraseña</string>
+    <string name="loginp2">Contraseña</string>
+    <string name="logbtn">INGRESAR</string>
+    <string name="loglay3">Ingrese nombre</string>
+    <string name="loginp3">Nombre</string>
+    <!-- TODO: MENU-->
+    <string name="maitit">MENU</string>
+    <string name="maibtn1">Productos</string>
+    <string name="maibtn2">Cotizador</string>
+    <string name="maibtn3">Cerrar Sesión</string>
+    <string name="maibie">Bienvenido</string>
+    <!-- TODO: Prodcutos -->
+    <string name="protit">Productos</string>
+    <string name="prolay">Seleccione Producto</string>
+    <string name="prospin">Prodcutos</string>
+    <string name="prodet">Detalles Producto</string>
+
+</resources>
